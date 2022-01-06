@@ -1,0 +1,30 @@
+Matematicas
+54 estudiantes van en 6 autobuses, ¿Cuántos estudiantes irán en cada autobus?
+7
+6
+V-9
+8
+Programacion
+¿Que instrucción se usa para unir tablas en una base de datos relacional?
+UNION
+COMBINATION
+V-JOIN
+JOINING
+Ciencias Sociales
+¿Cuales son los puntos cardinales de la tierra?
+V-Norte, sur este y oeste
+Arriba, abajo y centro
+Izquierda, derecha y centro
+Diagonales y centro
+Español
+El origen del español es del
+Latin culto
+V-Latin Vulgar
+Griego Vulgar
+Arameo
+Fisica
+Recta que toca en un punto a una curva o a una superficie
+Hipotenusa
+Cateto
+V-Tangente
+Cateto Adyacente

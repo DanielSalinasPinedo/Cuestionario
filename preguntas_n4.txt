@@ -1,0 +1,30 @@
+-Matematicas
+¿Cuantas aristas tiene la pirámide cuadrangular?
+4
+3
+V-8
+10
+Programacion
+MySQL es una base de datos de tipo
+V-Relacional
+No Relacional
+Bi Relacional
+Ninguna de las anteriores
+Ciencias Sociales
+¿Donde se inventaron el Horoscopo?
+Egipto
+V-Mesopotamia
+China
+España
+Español
+¿A que llamamos jerarquizacion de la informacion?
+Cuando comparamos un texto con otro
+Cuando copiamos la informacion
+V-Cuando se le da un orden segun su prioridad
+Cuando ordenamos como queremos
+Fisica
+Toda acción corresponde una reaccion, ¿Cual ley de Newton es?
+Segunda
+Primera
+V-Tercera
+Cuarta

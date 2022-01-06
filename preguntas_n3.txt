@@ -1,0 +1,30 @@
+Matematicas
+¿Que es un vector?
+objetos del mismo tipo almacenados consecutivamente en memoria
+V-son objetos matemáticos que tienen módulo, dirección y sentido
+son objetos matemáticos que tienen dirección y sentido
+es un instrumento para hacer mediciones
+Programacion
+¿Cual de los siguientes es un lenguaje de programación compilado?
+Python
+V-Java
+HTML
+Ruby
+Ciencias Sociales
+El embalzamiento fue un procedimiento que practicaron
+Griegos
+Sumerios
+V-Egipcios
+Romanos
+Español
+¿Que hace un moderador en un debate?
+Expone el tema al grupo
+Escribe todo lo que sucede en el debate
+V-Asigna los turnos para las personas que debatiran
+Da la razon algun bando
+Fisica
+¿Que energia se obtiene del aprovechamiento de la energia cinetica?
+Quimica
+Electrica
+V-Hidraulica
+Solar

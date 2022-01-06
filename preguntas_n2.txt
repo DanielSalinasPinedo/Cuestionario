@@ -1,0 +1,30 @@
+Matematicas
+Dado lo siguiente {24,12,48}, el Maximo Comun Divisor de dichos numeros es:
+V-12
+8
+14
+7
+Programacion
+¿Que lenguaje de etiquetas se usa en un navegador?
+Python
+Java
+V-HTML
+CSS
+Ciencias Sociales
+La historia Universal se divide cronológicamente en
+V-Edad antigua, edad media, edad moderna, edad contemporánea
+Edad media, edad antigua, edad moderna, edad contemporanea
+Edad contemporánea, edad moderna, edad media, edad antigua
+Edad antigua, edad moderna y media
+Español
+Se refiere a conceptos que van relacionados a través de líneas
+V-Mapas conceptuales
+Cuadro comparativo
+Resumen
+Articulo
+Fisica
+Si la masa disminuye en un péndulo simple, el periodo
+aumenta
+disminuye
+V-no cambia
+oscila
