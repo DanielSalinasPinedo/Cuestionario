@@ -13,6 +13,8 @@ El ID debe ser la llame primaria y debe tener el A_I seleccionado
 
 ---------------------------CONFIGURACION EN JAVA----------------------------------
 
+Primero verificar si ya el archivo se encuentra en Libraries
+
 En la carpeta "connector" se encuentra "mysql-connector-java-5.1.46.jar" que debe ser agregado al proyecto de la siguiente forma
 
 Click derecho en "Libraries" y le damos click en "Add JAR/Folder" buscamos la ubicacion del archivo jar que esta dentro del proyecto en la carpeta "connector" lo seleccionas y le das en abrir
