@@ -1,8 +1,8 @@
 package Cuestionario;
 
 public class Jugador {
-    String nombre;
-    int puntos;
+    private String nombre;
+    private int puntos;
 
     public Jugador() {
     }
